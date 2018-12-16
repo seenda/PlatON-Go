@@ -1,5 +1,5 @@
 ## Go Ethereum
-
+## PlatON-Go 1.0 update by xxg 12/16/18
 Official golang implementation of the Ethereum protocol.
 
 [![API Reference](
